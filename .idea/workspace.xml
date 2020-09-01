@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d2fec594-1e38-4002-bc2e-a9ce01ca53e9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -31,7 +49,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/image" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -60,18 +78,56 @@
       <workItem from="1598940243744" duration="183000" />
       <workItem from="1598940435087" duration="489000" />
       <workItem from="1598940932994" duration="67000" />
-      <workItem from="1598941074722" duration="686000" />
+      <workItem from="1598941074722" duration="1743000" />
+      <workItem from="1598947972206" duration="26000" />
+      <workItem from="1598962745260" duration="29000" />
+      <workItem from="1598964044853" duration="122000" />
     </task>
+    <task id="LOCAL-00001" summary="updata">
+      <created>1598942052075</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598942052075</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updata">
+      <created>1598942080149</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598942080149</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updata" />
+    <option name="LAST_COMMIT_MESSAGE" value="updata" />
   </component>
   <component name="WindowStateProjectService">
     <state x="761" y="376" key="#Notifications" timestamp="1598940953443">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="761" y="376" key="#Notifications/0.0.2048.1112@0.0.2048.1112" timestamp="1598940953443" />
+    <state x="479" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598947992459">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="479" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1598947992459" />
     <state x="896" y="454" key="Github.ShareDialog" timestamp="1598939926321">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -80,9 +136,13 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="840" y="261" key="Github.UntrackedFilesDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1598939939237" />
-    <state x="526" y="201" key="SettingsEditor" timestamp="1598940295058">
+    <state x="526" y="201" key="SettingsEditor" timestamp="1598964167341">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="526" y="201" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1598940295058" />
+    <state x="526" y="201" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1598964167341" />
+    <state x="617" y="285" key="Vcs.Push.Dialog.v2" timestamp="1598942089642">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="285" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1598942089642" />
   </component>
 </project>
